@@ -20,32 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="877e6b8a-8afe-4fa0-b7cc-6203d4cce140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/example-1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/example-1/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/example-1/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/example-1/run-redis.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/example-1/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/myapp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/periodic_tasks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/periodic_tasks/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/celery_ext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_demo/proj/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_demo/proj/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_demo/proj/celery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_demo/proj/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_proj/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_proj/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_proj/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_proj/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_proj/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_proj/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_proj/proj/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_proj/proj/celery_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celery_py/examples/standard_proj/proj/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawlab_py/mognoDemo/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawlab_py/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_docx/demo1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_docx/demo1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_docx/demo1/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/doc_example/demo_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/.idea/example-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/.idea/proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_py/examples/proj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery_py/examples/example-1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery_py/examples/example-1/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery_py/examples/example-1/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery_py/examples/example-1/run-redis.sh" beforeDir="false" afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/run-redis.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery_py/examples/example-1/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/celery_py/examples/flask_example/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celery_py/examples/proj/celery_ext.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_py/examples/proj/celery_ext.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,18 +76,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/celery_py/examples/periodic_tasks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/celery_docx" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\BennyOfProjects\project-structure-collections\celery_docx\demo1" />
       <recent name="F:\BennyOfProjects\project-structure-collections\celery_py\examples\periodic_tasks" />
       <recent name="F:\BennyOfProjects\project-structure-collections\celery_py\examples" />
     </key>
@@ -103,7 +105,8 @@
       <workItem from="1607222277206" duration="1230000" />
       <workItem from="1607338983723" duration="1361000" />
       <workItem from="1607341764522" duration="1990000" />
-      <workItem from="1607347346898" duration="4221000" />
+      <workItem from="1607347346898" duration="4839000" />
+      <workItem from="1607409640282" duration="1993000" />
     </task>
     <servers />
   </component>
@@ -123,14 +126,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3307" y="307" key="FileChooserDialogImpl" timestamp="1607346494946">
-      <screen x="2560" y="0" width="2048" height="1496" />
+    <state x="747" y="228" key="FileChooserDialogImpl" timestamp="1607414065594">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state x="747" y="228" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1496@0.0.2048.1112" timestamp="1607414065594" />
     <state x="3307" y="307" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1496@2560.0.2048.1496" timestamp="1607346494946" />
-    <state x="2969" y="155" key="SettingsEditor" timestamp="1607345050909">
-      <screen x="2560" y="0" width="2048" height="1496" />
+    <state x="409" y="115" key="SettingsEditor" timestamp="1607412112340">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="409" y="115" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1496@0.0.2048.1112" timestamp="1607341434412" />
+    <state x="409" y="115" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1496@0.0.2048.1112" timestamp="1607412112340" />
     <state x="2969" y="155" key="SettingsEditor/0.0.2048.1112/2560.0.2048.1496@2560.0.2048.1496" timestamp="1607345050909" />
   </component>
 </project>
